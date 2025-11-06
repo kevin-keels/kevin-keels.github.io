@@ -1,3 +1,2 @@
-title: Kevin Keely
-description: Python Developer | GIS Analyst | OMSCS Student
-theme: jekyll-theme-cayman
+markdown: kramdown
+theme:
