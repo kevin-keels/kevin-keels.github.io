@@ -1,32 +1,37 @@
-# 👋 Hi, I'm Kevin Keely
+# Kevin Keels
 
-Python developer with a background in GIS, infrastructure data, and a Master's in Computer Science (OMSCS). I enjoy building tools, automations, and games.
+### Software Developer | OMSCS Student | Full-Stack Development | Game Development
 
----
-
-## 🛠️ Projects
-
-### 🐶 Dog Adoption Database  
-A full-stack Flask app to manage adoptable dogs, using MySQL and Docker.
-
-[View on GitHub](https://github.com/yourusername/dog-adoption-database)
+This portfolio highlights selected work including a full-stack web application, a Unity game project, and an Android application. Each project page provides context, technical details, and links to live demos or source repositories.
 
 ---
 
-### 🎮 Unity Escape Room  
-A 3D platformer built in Unity featuring puzzles, lasers, and time-based challenges. Focused on root motion, shader effects, and physics-based movement.
+## Projects
 
-[View on GitHub](https://github.com/yourusername/unity-escape-room)
+### Shelter Management System (Full-Stack Flask Application)
+Live Application: https://shelter-system.onrender.com  
+Note: The server may take up to one minute to wake on first load (free hosting limitations).
+
+A management system for tracking animals, adopters, user accounts, and adoption applications. Includes administrative tools for approving or rejecting adoption requests.
+
+[View Project Details](./projects/shelter.md)
 
 ---
 
-### 📦 Pipeline Data Tool (Work)  
-Internal Python tool to manage linear referencing system data for SoCalGas infrastructure. Private repo.
+### Unity Puzzle/Exploration Game
+A 3D third-person puzzle and movement-based game developed in Unity. A WebGL build will be made available to play in-browser.
+
+[View Project Details](./projects/unity-game.md)
 
 ---
 
-## 📫 Contact
+### Android Job Comparison App
+An Android application that compares job offers using weighted scoring criteria. Developed as part of OMSCS coursework.
 
-- [GitHub](https://github.com/yourusername)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- Email: your.email@example.com
+[View Project Details](./projects/android-app.md)
+
+---
+
+## Contact
+GitHub: https://github.com/kevin-keels  
+(You can add LinkedIn and email if you want them visible here)
